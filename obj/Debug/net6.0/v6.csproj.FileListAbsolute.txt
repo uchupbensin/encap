@@ -1,0 +1,15 @@
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\obj\Debug\net6.0\v6.csproj.AssemblyReference.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\obj\Debug\net6.0\v6.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\obj\Debug\net6.0\v6.AssemblyInfoInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\obj\Debug\net6.0\v6.AssemblyInfo.cs
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\obj\Debug\net6.0\v6.csproj.CoreCompileInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\bin\Debug\net6.0\v6.exe
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\bin\Debug\net6.0\v6.deps.json
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\bin\Debug\net6.0\v6.runtimeconfig.json
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\bin\Debug\net6.0\v6.dll
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\bin\Debug\net6.0\v6.pdb
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\obj\Debug\net6.0\v6.dll
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\obj\Debug\net6.0\refint\v6.dll
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\obj\Debug\net6.0\v6.pdb
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\obj\Debug\net6.0\v6.genruntimeconfig.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\v6\obj\Debug\net6.0\ref\v6.dll
